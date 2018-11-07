@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_boot_mybatis_annotation" />
         <module name="spring_boot_mybatis_xml" />
+        <module name="spring_boot_rabbitmq_consumer" />
+        <module name="spring_boot_rabbitmq_provider" />
         <module name="spring_boot_redis" />
-        <module name="springbootmybatisannotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring_boot_demos_new" target="1.8" />
+      <module name="spring_boot_mybatis_annotation" target="1.8" />
       <module name="spring_boot_mybatis_xml" target="1.8" />
+      <module name="spring_boot_rabbitmq_consumer" target="1.8" />
+      <module name="spring_boot_rabbitmq_provider" target="1.8" />
       <module name="spring_boot_redis" target="1.8" />
-      <module name="springbootmybatisannotation" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
