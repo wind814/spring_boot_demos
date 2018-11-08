@@ -14,6 +14,7 @@
         <module>spring_boot_redis</module>
         <module>spring_boot_rabbitmq_provider</module>
         <module>spring_boot_rabbitmq_consumer</module>
+        <module>spring_boot_swagger2</module>
     </modules>
 
 

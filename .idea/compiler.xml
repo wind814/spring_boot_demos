@@ -11,6 +11,7 @@
         <module name="spring_boot_rabbitmq_consumer" />
         <module name="spring_boot_rabbitmq_provider" />
         <module name="spring_boot_redis" />
+        <module name="spring_boot_swagger2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="spring_boot_rabbitmq_consumer" target="1.8" />
       <module name="spring_boot_rabbitmq_provider" target="1.8" />
       <module name="spring_boot_redis" target="1.8" />
+      <module name="spring_boot_swagger2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

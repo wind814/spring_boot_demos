@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_boot_rabbitmq_consumer/spring_boot_rabbitmq_consumer.iml" filepath="$PROJECT_DIR$/spring_boot_rabbitmq_consumer/spring_boot_rabbitmq_consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_rabbitmq_provider/spring_boot_rabbitmq_provider.iml" filepath="$PROJECT_DIR$/spring_boot_rabbitmq_provider/spring_boot_rabbitmq_provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_redis/spring_boot_redis.iml" filepath="$PROJECT_DIR$/spring_boot_redis/spring_boot_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_swagger2/spring_boot_swagger2.iml" filepath="$PROJECT_DIR$/spring_boot_swagger2/spring_boot_swagger2.iml" />
     </modules>
   </component>
 </project>
