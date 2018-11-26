@@ -15,7 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring_boot_demos_new" target="1.8" />
+      <module name="spring_boot_demos" target="1.8" />
       <module name="spring_boot_mybatis_annotation" target="1.8" />
       <module name="spring_boot_mybatis_xml" target="1.8" />
       <module name="spring_boot_rabbitmq_consumer" target="1.8" />

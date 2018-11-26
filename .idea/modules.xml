@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring_boot_demos_new.iml" filepath="$PROJECT_DIR$/.idea/spring_boot_demos_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_boot_demos.iml" filepath="$PROJECT_DIR$/.idea/spring_boot_demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_mybatis_annotation/spring_boot_mybatis_annotation.iml" filepath="$PROJECT_DIR$/spring_boot_mybatis_annotation/spring_boot_mybatis_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_mybatis_xml/spring_boot_mybatis_xml.iml" filepath="$PROJECT_DIR$/spring_boot_mybatis_xml/spring_boot_mybatis_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_rabbitmq_consumer/spring_boot_rabbitmq_consumer.iml" filepath="$PROJECT_DIR$/spring_boot_rabbitmq_consumer/spring_boot_rabbitmq_consumer.iml" />
