@@ -22,6 +22,10 @@ public class DemoController {
 
         List<UserEntity> userEntityList =  userMapper.getAll();
 
+        for (UserEntity u : userEntityList){
+            System.out.println(u.toString());
+        }
+
         return "";
     }
 }

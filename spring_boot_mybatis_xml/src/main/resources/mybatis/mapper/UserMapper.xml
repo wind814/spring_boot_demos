@@ -5,7 +5,7 @@
         <id column="id" property="id" jdbcType="BIGINT" />
         <result column="user_name" property="userName" jdbcType="VARCHAR" />
         <result column="password" property="password" jdbcType="VARCHAR" />
-        <result column="user_sex" property="userSex" javaType="com.wind.enums.UserSexEnum"/>
+        <result column="user_sex" property="userSex" jdbcType="VARCHAR" />
         <result column="nick_name" property="nickName" jdbcType="VARCHAR" />
     </resultMap>
 
