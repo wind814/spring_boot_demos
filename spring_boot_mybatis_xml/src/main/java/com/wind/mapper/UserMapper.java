@@ -1,6 +1,7 @@
 package com.wind.mapper;
 
 import com.wind.entity.UserEntity;
+
 import java.util.List;
 
 public interface UserMapper {
